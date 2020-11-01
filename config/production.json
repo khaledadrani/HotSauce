@@ -1,0 +1,6 @@
+{
+    "name":"HotSauce Demo - Production",
+    "mail":{
+        "host":"prod-mail-server"
+    }
+}
